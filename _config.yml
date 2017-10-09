@@ -1,0 +1,11 @@
+username: javamanyy
+name: javamanyy
+#baseurl: /javamanyy
+baseurl: 
+markdown: redcarpet
+safe: false
+pygments: true
+title: Home
+disqusname: javaman
+motto: 描述
+subtitle: 子标题
